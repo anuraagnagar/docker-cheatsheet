@@ -3,12 +3,12 @@
 Docker is an open-source platform that allows developers to automate the deployment of applications inside lightweight, portable containers. Containers package an application along with its dependencies, libraries, and configurations, ensuring it runs consistently across different environments.
 Why Do We Use Docker?
 
-1. Portability – Run your application anywhere (local machine, cloud, or on-premise servers).
-2. Scalability – Easily scale applications up or down using container orchestration tools like Kubernetes.
-3. Dependency Management – Packages all dependencies inside the container, avoiding compatibility issues.
-4. Resource Efficiency – Uses fewer resources than traditional VMs since multiple containers share the same OS kernel.
-5. Fast Deployment – Containers start in seconds, making deployment quick and efficient.
-6. Isolation – Each container runs in an isolated environment, reducing conflicts between applications.
+- Portability – Run your application anywhere (local machine, cloud, or on-premise servers).
+- Scalability – Easily scale applications up or down using container orchestration tools like Kubernetes.
+- Dependency Management – Packages all dependencies inside the container, avoiding compatibility issues.
+- Resource Efficiency – Uses fewer resources than traditional VMs since multiple containers share the same OS kernel.
+- Fast Deployment – Containers start in seconds, making deployment quick and efficient.
+- Isolation – Each container runs in an isolated environment, reducing conflicts between applications.
 
 ### **1️⃣ Basic Commands**
 ```
